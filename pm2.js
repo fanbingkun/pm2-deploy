@@ -9,3 +9,5 @@
 
 // 初始化配置文件
 // pm2 ecosystem
+
+// pm2 deploy ecosystem.config.js production setup  发布  第一次setup
